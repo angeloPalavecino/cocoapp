@@ -31,7 +31,7 @@ function BannerSection({ className }) {
                     <div className="bg-image" style={{ backgroundImage: `url(${SlideImage1})` }}></div>
                     <div className="auto-container">
                         <div className="content-box">
-                            <span className="sub-title animate-1">Solutions for your all it problems</span>
+                            <span className="sub-title animate-1">Solutsssssions for your all it problems</span>
                             <h1 className="title animate-2">Innovative <br />Tech Solution</h1>
                             <div className="btn-box animate-3">
                                 <Link to="/about-us" className="theme-btn btn-style-one">
@@ -48,7 +48,7 @@ function BannerSection({ className }) {
                     <div className="bg-image" style={{ backgroundImage: `url(${SlideImage2})` }}></div>
                     <div className="auto-container">
                         <div className="content-box">
-                            <span className="sub-title animate-1">Solutions for your all it problems</span>
+                            <span className="sub-title animate-1">Soluciones</span>
                             <h1 className="title animate-2">Innovative <br />Tech Solution</h1>
                             <div className="btn-box animate-3">
                                 <Link to="/about-us" className="theme-btn btn-style-one">

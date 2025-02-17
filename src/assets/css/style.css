@@ -513,9 +513,9 @@ li {
   height: 80px;
   border-radius: 20px;
   background-position: center center;
-  background-image: url(../images/icons/preloader.png);
-  -webkit-animation: loading 7s infinite linear;
-          animation: loading 7s infinite linear;
+  background-image: url(../images/icons/preloader2.svg);
+  /*-webkit-animation: loading 7s infinite linear;
+          animation: loading 7s infinite linear;*/
   content: "";
 }
 

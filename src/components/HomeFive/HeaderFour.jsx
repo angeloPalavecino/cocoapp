@@ -57,7 +57,7 @@ function Header({ action, className = '', scroll = false }) {
                     <div className="outer-box">
           <Link to="tel:+92(8800)9806" className="info-btn d-none d-lg-block">
             <i className="icon fa fa-phone"></i>
-            <small>Call Anytime</small> + 88 ( 9800 ) 6802
+            <small>Call Anytime</small> +56 965091286
           </Link>
 
           <div className="mobile-nav-toggler" onClick={toggleMobileMenu}>

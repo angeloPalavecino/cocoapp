@@ -79,7 +79,7 @@ function Header({ className = '', scroll = false }) {
                         <Link href="tel:+92(8800)9806" className="info-btn">
                             <i className="icon fa fa-comments"></i>
                             <small>Llamanos</small>
-                            <strong>+ 88 ( 9800 ) 6802</strong>
+                            <strong>+56 965091286</strong>
                         </Link>
 
                     </div>

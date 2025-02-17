@@ -21,7 +21,7 @@ function AboutSectionFive({ className }) {
                         >
                             <div className="inner-column">
                                 <div className="sec-title">
-                                    <span className="sub-title">about the company</span>
+                                    <span className="sub-title">Sobre Nosotros</span>
                                     <h2>
                                         We provide the best IT <br /> solutions services
                                     </h2>
@@ -43,7 +43,7 @@ function AboutSectionFive({ className }) {
                                             <div className="inner">
                                                 <i className="icon flaticon-laptop"></i>
                                                 <h4 className="title">
-                                                    Website <br /> development
+                                                    Desarrollos <br /> 
                                                 </h4>
                                             </div>
                                         </div>
@@ -60,7 +60,7 @@ function AboutSectionFive({ className }) {
                                 {/* Skills */}
                                 <div className="team-details__bottom-right ms-0 mb-30">
                                     <div className="team-details__progress home-style">
-                                        <ProgressBar2 title="Technology" targetPercentage={78} />
+                                        <ProgressBar2 title="Tecnologia" targetPercentage={99} />
                                     </div>
                                 </div>
                                 <div className="bottom-box">

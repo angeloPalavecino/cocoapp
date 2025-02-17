@@ -12,8 +12,8 @@ function ProcessSection({ className }) {
             <div className="icon-lines-3 bounce-y"></div>
             <div className="auto-container">
                 <div className="sec-title text-center">
-                    <span className="sub-title">Working Process</span>
-                    <h2>Check Our Development <br /> Process Steps</h2>
+                    <span className="sub-title">Proceso de trabajo</span>
+                    <h2>Consulta nuestros pasos<br/>para un proceso de implementación éxitoso</h2>
                 </div>
                 <div className="outer-box">
                     <div className="row">
@@ -30,10 +30,11 @@ function ProcessSection({ className }) {
                                 </div>
                                 <div className="content-box">
                                     <h4 className="title">
-                                        <Link to="/about-us">Business analysis</Link>
+                                        <Link to="/about-us">Analisis de negocios</Link>
                                     </h4>
                                     <div className="text">
-                                        Explain to you how all this mistaken denouncing pleasure and praising pain was born
+                                    🔹 Identificamos necesidades y objetivos.<br/>
+                                    🔹 Diseñamos la mejor estrategia tecnológica.
                                     </div>
                                 </div>
                             </div>
@@ -52,10 +53,11 @@ function ProcessSection({ className }) {
                                 </div>
                                 <div className="content-box">
                                     <h4 className="title">
-                                        <Link to="/about-us">Implementing & Testing</Link>
+                                        <Link to="/about-us">Implementación y Pruebas</Link>
                                     </h4>
                                     <div className="text">
-                                        Explain to you how all this mistaken denouncing pleasure and praising pain was born
+                                    🔹 Desarrollamos y configuramos la solución. <br/>
+                                    🔹 Realizamos pruebas para garantizar su funcionamiento óptimo.
                                     </div>
                                 </div>
                             </div>
@@ -74,10 +76,11 @@ function ProcessSection({ className }) {
                                 </div>
                                 <div className="content-box">
                                     <h4 className="title">
-                                        <Link to="/about-us">Product Delivery</Link>
+                                        <Link to="/about-us">Entrega del Producto</Link>
                                     </h4>
                                     <div className="text">
-                                        Explain to you how all this mistaken denouncing pleasure and praising pain was born
+                                    🔹 Desplegamos la solución final.<br/>
+                                    🔹 Brindamos soporte y optimización continua.
                                     </div>
                                 </div>
                             </div>

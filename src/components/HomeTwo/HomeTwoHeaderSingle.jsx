@@ -88,7 +88,7 @@ function HomeTwoHeader({
                             </nav>
                         </div>
                         <div className="outer-box">
-                            <Link href="tel:+92(9800)6802" className="info-btn"> <i className="icon fa fa-phone"></i> <small>Call Anytime</small> <strong>+ 88 ( 9800 ) 6802</strong> </Link>
+                            <Link href="tel:+92(9800)6802" className="info-btn"> <i className="icon fa fa-phone"></i> <small>Call Anytime</small> <strong>+56 965091286</strong> </Link>
                            
                             <div className="btn-box"> <Link href="/contact" className="theme-btn btn-style-one hover-light"><span className="btn-title">Get Solution</span></Link> </div>
                             <div className="mobile-nav-toggler" onClick={toggleMobileMenu}>

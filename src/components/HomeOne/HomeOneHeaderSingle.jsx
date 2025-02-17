@@ -92,7 +92,7 @@ function Header({ className = '', scroll = false }) {
                         <Link href="tel:+92(8800)9806" className="info-btn">
                             <i className="icon fa fa-comments"></i>
                             <small>Call Anytime</small>
-                            <strong>+ 88 ( 9800 ) 6802</strong>
+                            <strong>+56 965091286</strong>
                         </Link>
                         <button className="ui-btn ui-btn search-btn" onClick={toggleSearchPopup}><span className="icon lnr lnr-icon-search"></span></button>
                         <Link to="#" className="ui-btn"><i className="lnr-icon-shopping-cart" /></Link>

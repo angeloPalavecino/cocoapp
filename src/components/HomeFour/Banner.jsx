@@ -31,7 +31,7 @@ function BannerSection({ className }) {
                     <div className="bg-image" style={{ backgroundImage: `url(${SlideImage1})` }}></div>
                     <div className="auto-container">
                         <div className="content-box">
-                            <span className="sub-title animate-1">Solutions for your all it problems</span>
+                            <span className="sub-title animate-1">HOLA</span>
                             <h1 className="title animate-2">Innovative  <br />Tech Solutions</h1>
                             <div className="btn-box animate-3">
                                 <Link to="/about-us" className="theme-btn btn-style-one hover-light">
@@ -48,11 +48,11 @@ function BannerSection({ className }) {
                     <div className="bg-image" style={{ backgroundImage: `url(${SlideImage2})` }}></div>
                     <div className="auto-container">
                         <div className="content-box">
-                            <span className="sub-title animate-1">Solutions for your all it problems</span>
+                            <span className="sub-title animate-1"> Soluciones a tu medida</span>
                             <h1 className="title animate-2">Innovative  <br />Tech Solutions</h1>
                             <div className="btn-box animate-3">
                                 <Link to="/about-us" className="theme-btn btn-style-one">
-                                    <span className="btn-title">Discover More</span>
+                                    <span className="btn-title">Descubre Mas</span>
                                 </Link>
                                
                             </div>

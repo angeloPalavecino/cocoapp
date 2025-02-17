@@ -9,12 +9,12 @@ function MarqueeSection() {
                     <div className="text">*Transform ideas into reality</div>
                     <div className="text">*INSPIRED WITH CREATIVITY</div>
                     <div className="text">*Design & development craft</div>
-                    <div className="text">*Unlock the potential</div>
+                    <div className="text">*Desbloquea tu potencial</div>
                     <div className="text">*Transform ideas into reality</div>
                     <div className="text">*Transform ideas into reality</div>
                     <div className="text">*INSPIRED WITH CREATIVITY</div>
                     <div className="text">*Design & development craft</div>
-                    <div className="text">*Unlock the potential</div>
+                    <div className="text">*Desbloquea tu potencial</div>
                     <div className="text">*Transform ideas into reality</div>
                 </div>
 
@@ -23,12 +23,12 @@ function MarqueeSection() {
                     <div className="text">*Transform ideas into reality</div>
                     <div className="text">*INSPIRED WITH CREATIVITY</div>
                     <div className="text">*Design & development craft</div>
-                    <div className="text">*Unlock the potential</div>
+                    <div className="text">*Desbloquea tu potencial</div>
                     <div className="text">*Transform ideas into reality</div>
                     <div className="text">*Transform ideas into reality</div>
                     <div className="text">*INSPIRED WITH CREATIVITY</div>
                     <div className="text">*Design & development craft</div>
-                    <div className="text">*Unlock the potential</div>
+                    <div className="text">*Desbloquea tu potencial</div>
                     <div className="text">*Transform ideas into reality</div>
                 </div>
             </div>

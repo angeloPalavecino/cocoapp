@@ -11,15 +11,14 @@ function Feature({ className }) {
                     <div className="content-column col-lg-6">
                         <div className="inner-column wow fadeInLeft">
                             <div className="sec-title light text-gradient">
-                                <span className="sub-title">Working areas</span>
-                                <h2>IT Services Customized <br /> for Your Industry</h2>
+                                <span className="sub-title">Áreas de trabajo</span>
+                                <h2>Servicios tecnologicos<br />  personalizados</h2>
                                 <div className="text">
-                                    There are many variations of passages of available but majority <br />
-                                    have suffered alteration in some form
+                                    Reduce la burocracia organizacional y empodera a los autores claves de cada sistema 
                                 </div>
                             </div>
                             <Link to="/about-us" className="theme-btn btn-style-one">
-                                <span className="btn-title">Discover More</span>
+                                <span className="btn-title">Descubre mas</span>
                             </Link>
                         </div>
                     </div>
@@ -32,7 +31,7 @@ function Feature({ className }) {
                                 <div className="feature-block col-lg-6 col-md-4 col-sm-6">
                                     <div className="inner-box">
                                         <i className="icon fa fa-globe"></i>
-                                        <h5 className="title">Website</h5>
+                                        <h5 className="title">Microsoft 365</h5>
                                     </div>
                                 </div>
                                 
@@ -40,7 +39,7 @@ function Feature({ className }) {
                                 <div className="feature-block col-lg-6 col-md-4 col-sm-6">
                                     <div className="inner-box">
                                         <i className="icon fab fa-android"></i>
-                                        <h5 className="title">Android</h5>
+                                        <h5 className="title">Power Platform</h5>
                                     </div>
                                 </div>
                                 
@@ -48,7 +47,7 @@ function Feature({ className }) {
                                 <div className="feature-block col-lg-6 col-md-4 col-sm-6">
                                     <div className="inner-box">
                                         <i className="icon fa fa-tv-alt"></i>
-                                        <h5 className="title">Web application</h5>
+                                        <h5 className="title">Desarrollos Web</h5>
                                     </div>
                                 </div>
                                 
@@ -56,7 +55,7 @@ function Feature({ className }) {
                                 <div className="feature-block col-lg-6 col-md-4 col-sm-6">
                                     <div className="inner-box">
                                         <i className="icon fa fa-pen-ruler"></i>
-                                        <h5 className="title">Designing</h5>
+                                        <h5 className="title">Diseño</h5>
                                     </div>
                                 </div>
                                 
@@ -64,7 +63,7 @@ function Feature({ className }) {
                                 <div className="feature-block col-lg-6 col-md-4 col-sm-6">
                                     <div className="inner-box">
                                         <i className="icon fa fa-lightbulb"></i>
-                                        <h5 className="title">Technology</h5>
+                                        <h5 className="title">Consultoria</h5>
                                     </div>
                                 </div>
                                 
@@ -72,7 +71,7 @@ function Feature({ className }) {
                                 <div className="feature-block col-lg-6 col-md-4 col-sm-6">
                                     <div className="inner-box">
                                         <i className="icon fa fa-brain-circuit"></i>
-                                        <h5 className="title">Solutions</h5>
+                                        <h5 className="title">Soluciones</h5>
                                     </div>
                                 </div>
                             </div>

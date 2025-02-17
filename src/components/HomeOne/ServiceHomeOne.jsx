@@ -22,7 +22,7 @@ function ServicesSection() {
                             <div className="content-box">
                                 <i className="icon flaticon-recommend"></i>
                                 <h4 className="title">
-                                    <Link to="/service-details">Perfect solutions <br />that business demands</Link>
+                                    <Link to="/service-details">Soluciones perfectas  <br />para las exigencias actuales</Link>
                                 </h4>
                             </div>
                         </div>
@@ -39,7 +39,7 @@ function ServicesSection() {
                             <div className="content-box">
                                 <i className="icon flaticon-digital-services"></i>
                                 <h4 className="title">
-                                    <Link to="/service-details">Choose the best <br />IT service company</Link>
+                                    <Link to="/service-details">Elige lo mejor, <br />conviértete en parte de nuestro éxito</Link>
                                 </h4>
                             </div>
                         </div>
@@ -56,7 +56,7 @@ function ServicesSection() {
                             <div className="content-box">
                                 <i className="icon flaticon-technology"></i>
                                 <h4 className="title">
-                                    <Link to="/service-details">We know how to <br />make a technology</Link>
+                                    <Link to="/service-details">Sabemos cómo  <br />crear tecnología</Link>
                                 </h4>
                             </div>
                         </div>

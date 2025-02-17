@@ -30,8 +30,8 @@ function ServicesSectionTwo() {
             <div className="bg bg-pattern-1"></div>
             <div className="auto-container">
                 <div className="sec-title light text-center text-gradient">
-                    <span className="sub-title">what we’re offering</span>
-                    <h2>Get the best IT technology <br /> services & solutions</h2>
+                    <span className="sub-title">Lo que ofrecemos</span>
+                    <h2>Obtén los mejores servicios <br /> y soluciones en tecnología</h2>
                 </div>
 
                 <Swiper {...swiperOptions} className="services-carousel">
@@ -39,9 +39,9 @@ function ServicesSectionTwo() {
                         <div className="inner-box">
                             <div className="content-box">
                                 <h4 className="title">
-                                    <Link to="/service-details">Product <br /> development</Link>
+                                    <Link to="/service-details">Desarrollo <br /> de Productos</Link>
                                 </h4>
-                                <div className="text">Providing the solutions for non-IT businesses.</div>
+                                <div className="text">Low Code, Desarrollo tradicional  </div>
                                 <div className="icon-box">
                                     <i className="icon flaticon-bank"></i>
                                 </div>
@@ -53,9 +53,9 @@ function ServicesSectionTwo() {
                         <div className="inner-box">
                             <div className="content-box">
                                 <h4 className="title">
-                                    <Link to="/service-details">Digital <br /> marketing</Link>
+                                    <Link to="/service-details">Marketing  <br /> digital</Link>
                                 </h4>
-                                <div className="text">Providing the solutions for non-IT businesses.</div>
+                                <div className="text">Branding y diseños de experiencia de Usuario </div>
                                 <div className="icon-box">
                                     <i className="icon flaticon-technology"></i>
                                 </div>
@@ -67,9 +67,9 @@ function ServicesSectionTwo() {
                         <div className="inner-box">
                             <div className="content-box">
                                 <h4 className="title">
-                                    <Link to="/service-details">Security <br /> system</Link>
+                                    <Link to="/service-details">Digitalización <br /> Organizacional</Link>
                                 </h4>
-                                <div className="text">Providing the solutions for non-IT businesses.</div>
+                                <div className="text">Te guiamos durante todo el proceso de adopción.</div>
                                 <div className="icon-box">
                                     <i className="icon flaticon-digital-services"></i>
                                 </div>
@@ -81,9 +81,9 @@ function ServicesSectionTwo() {
                         <div className="inner-box">
                             <div className="content-box">
                                 <h4 className="title">
-                                    <Link to="/service-details">UI/UX <br /> designing</Link>
+                                    <Link to="/service-details">Capacitaciones<br /> Workshop</Link>
                                 </h4>
-                                <div className="text">Providing the solutions for non-IT businesses.</div>
+                                <div className="text">Acompañamiento continuo y dedicado.</div>
                                 <div className="icon-box">
                                     <i className="icon flaticon-laptop"></i>
                                 </div>
@@ -95,9 +95,9 @@ function ServicesSectionTwo() {
                         <div className="inner-box">
                             <div className="content-box">
                                 <h4 className="title">
-                                    <Link to="/service-details">Data <br /> analysis</Link>
+                                    <Link to="/service-details">Analisis <br /> de Datos</Link>
                                 </h4>
-                                <div className="text">Providing the solutions for non-IT businesses.</div>
+                                <div className="text">Transforma datos en Acciones.</div>
                                 <div className="icon-box">
                                     <i className="icon flaticon-laptop"></i>
                                 </div>
@@ -107,10 +107,10 @@ function ServicesSectionTwo() {
                     <SwiperSlide className="service-block-two">
                         <div className="inner-box">
                             <div className="content-box">
-                                <h4 className="title">
-                                    <Link to="/service-details">Product <br /> development</Link>
+                            <h4 className="title">
+                                    <Link to="/service-details">Desarrollo <br /> de Productos</Link>
                                 </h4>
-                                <div className="text">Providing the solutions for non-IT businesses.</div>
+                                <div className="text">Low Code, Desarrollo tradicional  </div>
                                 <div className="icon-box">
                                     <i className="icon flaticon-bank"></i>
                                 </div>
@@ -121,10 +121,10 @@ function ServicesSectionTwo() {
                     <SwiperSlide className="service-block-two">
                         <div className="inner-box">
                             <div className="content-box">
-                                <h4 className="title">
-                                    <Link to="/service-details">Digital <br /> marketing</Link>
+                            <h4 className="title">
+                                    <Link to="/service-details">Marketing  <br /> digital</Link>
                                 </h4>
-                                <div className="text">Providing the solutions for non-IT businesses.</div>
+                                <div className="text">Branding y diseños de experiencia de Usuario </div>
                                 <div className="icon-box">
                                     <i className="icon flaticon-technology"></i>
                                 </div>
@@ -135,10 +135,10 @@ function ServicesSectionTwo() {
                     <SwiperSlide className="service-block-two">
                         <div className="inner-box">
                             <div className="content-box">
-                                <h4 className="title">
-                                    <Link to="/service-details">Security <br /> system</Link>
+                            <h4 className="title">
+                                    <Link to="/service-details">Digitalización <br /> Organizacional</Link>
                                 </h4>
-                                <div className="text">Providing the solutions for non-IT businesses.</div>
+                                <div className="text">Te guiamos durante todo el proceso de adopción.</div>
                                 <div className="icon-box">
                                     <i className="icon flaticon-digital-services"></i>
                                 </div>
@@ -149,10 +149,10 @@ function ServicesSectionTwo() {
                     <SwiperSlide className="service-block-two">
                         <div className="inner-box">
                             <div className="content-box">
-                                <h4 className="title">
-                                    <Link to="/service-details">UI/UX <br /> designing</Link>
+                            <h4 className="title">
+                                    <Link to="/service-details">Capacitaciones<br /> Workshop</Link>
                                 </h4>
-                                <div className="text">Providing the solutions for non-IT businesses.</div>
+                                <div className="text">Acompañamiento continuo y dedicado.</div>
                                 <div className="icon-box">
                                     <i className="icon flaticon-laptop"></i>
                                 </div>
@@ -163,10 +163,10 @@ function ServicesSectionTwo() {
                     <SwiperSlide className="service-block-two">
                         <div className="inner-box">
                             <div className="content-box">
-                                <h4 className="title">
-                                    <Link to="/service-details">Data <br /> analysis</Link>
+                            <h4 className="title">
+                                    <Link to="/service-details">Analisis <br /> de Datos</Link>
                                 </h4>
-                                <div className="text">Providing the solutions for non-IT businesses.</div>
+                                <div className="text">Transforma datos en Acciones.</div>
                                 <div className="icon-box">
                                     <i className="icon flaticon-laptop"></i>
                                 </div>

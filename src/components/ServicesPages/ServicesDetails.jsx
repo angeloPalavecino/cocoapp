@@ -37,7 +37,7 @@ function ServicesDetails() {
                                             <li>
                                                 <Link to="/service-details" className="current">
                                                     <i className="fas fa-angle-right"></i>
-                                                    <span>Website Development</span>
+                                                    <span>Digitalización</span>
                                                 </Link>
                                             </li>
                                             <li className="current">

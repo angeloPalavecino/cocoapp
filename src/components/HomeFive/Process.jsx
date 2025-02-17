@@ -12,9 +12,9 @@ function ProcessSection({ className }) {
             <div className="icon-lines-3 bounce-y"></div>
             <div className="auto-container">
                 <div className="sec-title text-center">
-                    <span className="sub-title">Working Process</span>
+                    <span className="sub-title">Proceso de trabajo</span>
                     <h2>
-                        Check Our Development <br /> Process Steps
+                    Consulta nuestros pasos  <br /> del proceso de desarrollo
                     </h2>
                 </div>
                 <div className="outer-box">
@@ -32,7 +32,7 @@ function ProcessSection({ className }) {
                                 </div>
                                 <div className="content-box">
                                     <h4 className="title">
-                                        <Link to="/about-us">Business analysis</Link>
+                                        <Link to="/about-us">Analisis de negocios</Link>
                                     </h4>
                                     <div className="text">
                                         Explain to you how all this mistaken denouncing pleasure and praising pain was born
