@@ -11,7 +11,7 @@ function BlogHomeOne({ className }) {
         <section id="news" className={`news-section ${className || ''}`}>
             <div className="auto-container">
                 <div className="sec-title text-center">
-                    <span className="sub-title">From the Blog</span>
+                    <span className="sub-title">From the Blog </span>
                     <h2>Check the latest news & <br />articles updates</h2>
                 </div>
 

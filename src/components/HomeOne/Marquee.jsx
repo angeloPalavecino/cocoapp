@@ -6,30 +6,30 @@ function MarqueeSection() {
             <div className="marquee">
                 {/* First Marquee Group */}
                 <div className="marquee-group">
-                    <div className="text">*Transform ideas into reality</div>
-                    <div className="text">*INSPIRED WITH CREATIVITY</div>
-                    <div className="text">*Design & development craft</div>
-                    <div className="text">*Desbloquea tu potencial</div>
-                    <div className="text">*Transform ideas into reality</div>
-                    <div className="text">*Transform ideas into reality</div>
-                    <div className="text">*INSPIRED WITH CREATIVITY</div>
-                    <div className="text">*Design & development craft</div>
-                    <div className="text">*Desbloquea tu potencial</div>
-                    <div className="text">*Transform ideas into reality</div>
+                <div className="text">*Transforma ideas en realidad</div>
+                <div className="text">*Impulsamos tu visión con tecnología</div>
+                <div className="text">*Diseño y desarrollo impulsado por IA</div>
+                <div className="text">*Desbloquea tu potencial</div>
+                <div className="text">*Transforma ideas en realidad</div>
+                <div className="text">*Transforma ideas en realidad</div>
+                <div className="text">*Impulsamos tu visión con tecnología</div>
+                <div className="text">*Diseño y desarrollo impulsado por IA</div>
+                <div className="text">*Desbloquea tu potencial</div>
+                <div className="text">*Transforma ideas en realidad</div>
                 </div>
 
                 {/* Second Marquee Group (for continuous scroll effect) */}
                 <div aria-hidden="true" className="marquee-group">
-                    <div className="text">*Transform ideas into reality</div>
-                    <div className="text">*INSPIRED WITH CREATIVITY</div>
-                    <div className="text">*Design & development craft</div>
-                    <div className="text">*Desbloquea tu potencial</div>
-                    <div className="text">*Transform ideas into reality</div>
-                    <div className="text">*Transform ideas into reality</div>
-                    <div className="text">*INSPIRED WITH CREATIVITY</div>
-                    <div className="text">*Design & development craft</div>
-                    <div className="text">*Desbloquea tu potencial</div>
-                    <div className="text">*Transform ideas into reality</div>
+                <div className="text">*Transforma ideas en realidad</div>
+                <div className="text">*Impulsamos tu visión con tecnología</div>
+                <div className="text">*Diseño y desarrollo impulsado por IA</div>
+                <div className="text">*Desbloquea tu potencial</div>
+                <div className="text">*Transforma ideas en realidad</div>
+                <div className="text">*Transforma ideas en realidad</div>
+                <div className="text">*Impulsamos tu visión con tecnología</div>
+                <div className="text">*Diseño y desarrollo impulsado por IA</div>
+                <div className="text">*Desbloquea tu potencial</div>
+                <div className="text">*Transforma ideas en realidad</div>
                 </div>
             </div>
         </div>
