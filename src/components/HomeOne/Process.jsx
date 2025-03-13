@@ -30,7 +30,7 @@ function ProcessSection({ className }) {
                                 </div>
                                 <div className="content-box">
                                     <h4 className="title">
-                                        <Link to="/about-us">Analisis de negocios</Link>
+                                        <Link to="/about-us">Design Thinking</Link>
                                     </h4>
                                     <div className="text">
                                     🔹 Identificamos necesidades y objetivos.<br/>
@@ -53,7 +53,7 @@ function ProcessSection({ className }) {
                                 </div>
                                 <div className="content-box">
                                     <h4 className="title">
-                                        <Link to="/about-us">Implementación y Pruebas</Link>
+                                        <Link to="/about-us">Hybrid Agile</Link>
                                     </h4>
                                     <div className="text">
                                     🔹 Desarrollamos y configuramos la solución. <br/>
@@ -76,7 +76,7 @@ function ProcessSection({ className }) {
                                 </div>
                                 <div className="content-box">
                                     <h4 className="title">
-                                        <Link to="/about-us">Entrega del Producto</Link>
+                                        <Link to="/about-us">Success by Design </Link>
                                     </h4>
                                     <div className="text">
                                     🔹 Desplegamos la solución final.<br/>

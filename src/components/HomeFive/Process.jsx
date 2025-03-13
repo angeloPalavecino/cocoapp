@@ -32,7 +32,7 @@ function ProcessSection({ className }) {
                                 </div>
                                 <div className="content-box">
                                     <h4 className="title">
-                                        <Link to="/about-us">Analisis de negocios</Link>
+                                        <Link to="/about-us">Design Thinking</Link>
                                     </h4>
                                     <div className="text">
                                         Explain to you how all this mistaken denouncing pleasure and praising pain was born

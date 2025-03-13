@@ -11,10 +11,10 @@ function ServicesPages() {
         <>
             <HomeOneHeader />
             <HeroPageTitle
-                title="Services"
+                title="Soluciones"
                 breadcrumb={[
                     { link: '/', title: 'Home' },
-                    { link: '/services', title: 'Services' },
+                    { link: '/services', title: 'Servicios' },
                 ]}
             />
             <Services />

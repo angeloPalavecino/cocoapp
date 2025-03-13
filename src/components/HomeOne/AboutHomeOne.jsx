@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import aboutImage1 from '../../assets/images/resource/about-1.jpg';
 import aboutImage2 from '../../assets/images/resource/about-2.jpg';
 import aboutThumb from '../../assets/images/resource/about1-thumb.jpg';
+import aboutThumb2 from '../../assets/images/resource/about1-thumb2.jpg';
 import iconCircleText from '../../assets/images/icons/icon-circle-text.png';
 import ProgressBar2 from '../../lib/ProgressBar2';
 
@@ -46,36 +47,29 @@ function AboutHomeOne({ className }) {
                                 {/* Skills */}
                                 <div className="bottom-box">
                                     <div className="author-box">
-                                        <img src={aboutThumb} alt="Image" />
+                                        <img src={aboutThumb} alt="Image" width="100" height="100"/>
                                         <div className="info">
-                                            <h4 className="name">Constanza Vega</h4>
-                                            <div className="designation">Directora de Finanzas</div>
+                                            <h4 className="name">PowerPlatform</h4>
+                                            <div className="designation" style={{ textAlign: "justify" }}>USD 15,4 millones adicionales en ingresos gracias a la rápida implementación de soluciones personalizadas que satisfacen las necesidades específicas de los clientes</div>
                                         </div>
                                     </div>
-                                    <Link to="/about-us" className="theme-btn btn-style-one">
-                                        <span className="btn-title">Quiero saber mas</span>
-                                    </Link>
                                 </div>
                                 <div className="team-details__bottom-right ms-0 mb-30">
                                     <div className="team-details__progress home-style">
-                                        <ProgressBar2 title="Ganacias" targetPercentage={99} />
+                                        <ProgressBar2 title="Ahorro de Tiempo " targetPercentage={35} />
                                     </div>
                                 </div>
                                 <div className="bottom-box">
-                                    <div className="author-box">
-                                        <img src={aboutThumb} alt="Image" />
+                                <div className="author-box">
+                                <img src={aboutThumb2} alt="Image" width="100" height="100"/>
                                         <div className="info">
-                                            <h4 className="name">Martin Riaño</h4>
-                                            <div className="designation">Director de Éxito Operacional</div>
+                                            <div className="designation" style={{ textAlign: "justify" }}>El porcentaje promedio de ganancias anuales directamente atribuible a Power Platform es aproximadamente 75% (basado en el ROI anualizado), respaldado por mejoras en eficiencia, reducción de costos operativos y crecimiento de ingresos.</div>
                                         </div>
-                                    </div>
-                                    <Link to="/about-us" className="theme-btn btn-style-one">
-                                        <span className="btn-title">Quiero saber mas</span>
-                                    </Link>
+                                        </div>
                                 </div>
                                 <div className="team-details__bottom-right ms-0 mb-30">
                                     <div className="team-details__progress home-style">
-                                        <ProgressBar2 title="Tecnologia" targetPercentage={99} />
+                                        <ProgressBar2 title="promedio de ganancias anuales " targetPercentage={75} />
                                     </div>
                                 </div>
                             </div>

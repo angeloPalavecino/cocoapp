@@ -6,20 +6,20 @@ function FeaturesSectionFour() {
         {
             id: 1,
             icon: 'flaticon-learning',
-            title: 'IT Management',
-            text: 'Lorem ipsu dolor sit am adipi we help you ensure everyone powerful',
+            title: 'Misión',
+            text: 'Impulsar la excelencia en cada proyecto, garantizando soluciones innovadoras y personalizadas que no solo cumplen, sino que superan las expectativas de nuestros clientes.',
         },
         {
             id: 2,
             icon: 'flaticon-settings',
-            title: 'Cyber Security',
-            text: 'Lorem ipsu dolor sit am adipi we help you ensure everyone powerful',
+            title: 'Visión',
+            text: 'Ser el aliado estratégico líder en consultoría, reconocido por nuestra capacidad de transformar desafíos en resultados tangibles y sostenibles.',
         },
         {
             id: 3,
             icon: 'flaticon-cloud',
-            title: 'Cloud Computing',
-            text: 'Lorem ipsu dolor sit am adipi we help you ensure everyone powerful',
+            title: 'Valores',
+            text: 'Enfoque cliente-céntrico Mejora continua Integridad',
         },
     ];
 
@@ -32,8 +32,8 @@ function FeaturesSectionFour() {
                         <div className="title-column col-lg-3 col-md-12">
                             <div className="inner-column">
                                 <h4 className="title">
-                                    We’re Ready <br />
-                                    Develop Your Site!
+                                Los pilares que<br />
+                                     Nos definen
                                 </h4>
                                 <figure className="image">
                                     <img src={FeatureImg2} alt="We’re Ready" />

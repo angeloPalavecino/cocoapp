@@ -13,8 +13,8 @@ function ContactSectionTwo() {
                     <div className="form-column col-lg-7 col-md-12">
                         <div className="inner-column">
                             <div className="sec-title light">
-                                <span className="sub-title">Contact Us</span>
-                                <h2>Let’s work together</h2>
+                                <span className="sub-title">Contacte Nos</span>
+                                <h2>Logremos mas Juntos...</h2>
                             </div>
                             {/* Contact Form */}
                             <div className="contact-form style-two wow fadeInLeft">

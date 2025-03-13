@@ -10,10 +10,10 @@ function Services() {
                     <div className="service-block-three col-lg-3 col-sm-6 wow fadeInUp">
                         <div className="inner-box">
                             <div className="content-box">
-                                <h3 className="count">02</h3>
+                                <h3 className="count">01</h3>
                                 <i className="icon flaticon-graphic-design"></i>
                                 <h4 className="title">
-                                    <Link to="/service-details">Graphic <br />Designing</Link>
+                                    <Link to="/service-details">Licencias<br />Microsoft</Link>
                                 </h4>
                             </div>
                         </div>
@@ -23,10 +23,10 @@ function Services() {
                     <div className="service-block-three col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
                         <div className="inner-box">
                             <div className="content-box">
-                                <h3 className="count">01</h3>
+                                <h3 className="count">02</h3>
                                 <i className="icon flaticon-digital-services"></i>
                                 <h4 className="title">
-                                    <Link to="/service-details">Website <br />Development</Link>
+                                    <Link to="/service-details">Workshops <br />Microsoft</Link>
                                 </h4>
                             </div>
                         </div>
@@ -39,7 +39,7 @@ function Services() {
                                 <h3 className="count">03</h3>
                                 <i className="icon flaticon-technology"></i>
                                 <h4 className="title">
-                                    <Link to="/service-details">Digital <br />Marketing</Link>
+                                    <Link to="/service-details">Outsoursing <br />de TI</Link>
                                 </h4>
                             </div>
                         </div>
@@ -52,7 +52,7 @@ function Services() {
                                 <h3 className="count">04</h3>
                                 <i className="icon flaticon-laptop"></i>
                                 <h4 className="title">
-                                    <Link to="/service-details">Apps <br />Development</Link>
+                                    <Link to="/service-details">Capacitaciones <br />M365</Link>
                                 </h4>
                             </div>
                         </div>
@@ -65,7 +65,7 @@ function Services() {
                                 <h3 className="count">05</h3>
                                 <i className="icon flaticon-recommend"></i>
                                 <h4 className="title">
-                                    <Link to="/service-details">UI/UX <br />Designing</Link>
+                                    <Link to="/service-details">Capacitaciones<br />Copilot</Link>
                                 </h4>
                             </div>
                         </div>
@@ -78,7 +78,7 @@ function Services() {
                                 <h3 className="count">06</h3>
                                 <i className="icon flaticon-promotion"></i>
                                 <h4 className="title">
-                                    <Link to="/service-details">SEO & Social <br />Marketing</Link>
+                                    <Link to="/service-details">Digitalización <br />Documental</Link>
                                 </h4>
                             </div>
                         </div>
@@ -88,10 +88,10 @@ function Services() {
                     <div className="service-block-three col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="700ms">
                         <div className="inner-box">
                             <div className="content-box">
-                                <h3 className="count">05</h3>
+                                <h3 className="count">07</h3>
                                 <i className="icon flaticon-recommend"></i>
                                 <h4 className="title">
-                                    <Link to="/service-details">UI/UX <br />Designing</Link>
+                                    <Link to="/service-details">Modern<br />Work</Link>
                                 </h4>
                             </div>
                         </div>
@@ -101,10 +101,10 @@ function Services() {
                     <div className="service-block-three col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="800ms">
                         <div className="inner-box">
                             <div className="content-box">
-                                <h3 className="count">06</h3>
+                                <h3 className="count">08</h3>
                                 <i className="icon flaticon-promotion"></i>
                                 <h4 className="title">
-                                    <Link to="/service-details">SEO & Social <br />Marketing</Link>
+                                    <Link to="/service-details">Adopción<br/>365</Link>
                                 </h4>
                             </div>
                         </div>

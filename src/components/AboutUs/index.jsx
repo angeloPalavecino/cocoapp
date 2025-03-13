@@ -16,10 +16,10 @@ function AboutUs() {
         <>
             <HomeOneHeader />
             <HeroPageTitle
-                title="About Us"
+                title="Sobre Nosotros"
                 breadcrumb={[
                     { link: '/', title: 'Home' },
-                    { link: '/about-us', title: 'About us' },
+                    { link: '/about-us', title: 'Sobre Nosotros' },
                 ]}
             />
             <AboutHomeOne />

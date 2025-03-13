@@ -15,19 +15,19 @@ function AwardSection({ className }) {
                     <div className="content-column col-lg-6 wow fadeInLeft">
                         <div className="inner-column">
                             <div className="sec-title light text-gradient">
-                                <span className="sub-title">Awards</span>
+                                <span className="sub-title">Reconocimientos</span>
                                 <h2>
-                                    Company awards & <br /> achievements
+                                    Premios Internos & <br /> Logros
                                 </h2>
                             </div>
                             <div className="bottom-box">
                                 <div className="text">
-                                    Lorem ipsum dolor scaccumsan proin phasell tibulum massa tellus morbi magna
+                                    Los Esfuerzos son muy valiosos para Nosotros y queremos compartirlos con ustedes
                                 </div>
                                 <ul className="list-style-three light">
-                                    <li><i className="icon fa fa-check"></i>High Marketing Solution</li>
-                                    <li><i className="icon fa fa-check"></i>High Success Rate</li>
-                                    <li><i className="icon fa fa-check"></i>We grow business</li>
+                                    <li><i className="icon fa fa-check"></i>Partner Oficial en Microsoft Market place</li>
+                                    <li><i className="icon fa fa-check"></i>5 Nuevas Certificaciones en menos del primer trimestre 2025</li>
+                                    <li><i className="icon fa fa-check"></i>Certificados frente a la camara de comercio de santiago.</li>
                                 </ul>
                             </div>
                         </div>
@@ -39,30 +39,30 @@ function AwardSection({ className }) {
                                 {/* Award Block 1 */}
                                 <div className="award-block col-lg-4 col-sm-6">
                                     <div className="inner-box">
-                                        <div className="date">2018 <br /> Award</div>
+                                        <div className="date">2022 <br />Martin R.</div>
                                         <img src={Award1} alt="Best Consulting" />
                                         <h6 className="title">
-                                            Best <br /> Consulting
+                                            Mejor <br /> Capacitador
                                         </h6>
                                     </div>
                                 </div>
                                 {/* Award Block 2 */}
                                 <div className="award-block col-lg-4 col-sm-6">
                                     <div className="inner-box">
-                                        <div className="date">2020 <br /> Award</div>
+                                        <div className="date">2023 <br />Angelo P. </div>
                                         <img src={Award2} alt="Best Brand" />
                                         <h6 className="title">
-                                            Best <br /> Brand
+                                            Mejor <br /> Programador
                                         </h6>
                                     </div>
                                 </div>
                                 {/* Award Block 3 */}
                                 <div className="award-block col-lg-4 col-sm-6">
                                     <div className="inner-box">
-                                        <div className="date">2011 <br /> Award</div>
+                                        <div className="date">2024 <br /> Diego Z.</div>
                                         <img src={Award3} alt="Star of the Year" />
                                         <h6 className="title">
-                                            Star of the <br /> year
+                                            Experto PowerPlatform <br /> del Año
                                         </h6>
                                     </div>
                                 </div>

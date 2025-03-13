@@ -32,9 +32,10 @@ function FooterHomeOne({ className }) {
                                     </div>
                                     <ul className="social-icon-two">
                                         <li><Link to="#"><i className="fab fa-twitter"></i></Link></li>
-                                        <li><Link to="#"><i className="fab fa-facebook"></i></Link></li>
                                         <li><Link to="#"><i className="fab fa-linkedin"></i></Link></li>
+                                        <li><Link to="#"><i className="fab fa-whatsapp"></i></Link></li>
                                         <li><Link to="#"><i className="fab fa-instagram"></i></Link></li>
+                                        <li><Link to="#"><i class="fab fa-tiktok"></i></Link></li>
                                     </ul>
                                 </div>
                             </div>
@@ -50,7 +51,7 @@ function FooterHomeOne({ className }) {
                                         <li><Link to="#">Conoce al Equipo</Link></li>
                                         <li><Link to="#">Noticias y Medios</Link></li>
                                         <li><Link to="#">Nuestros Proyectos</Link></li>
-                                        <li><Link to="/contact">Contacto</Link></li>
+                                        <li><Link to="/contact-pages">Contacto</Link></li>
                                     </ul>
                                 </div>
                             </div>

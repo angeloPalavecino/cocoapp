@@ -14,23 +14,21 @@ function TeamSection() {
         <div className="sec-title">
           <div className="row">
             <div className="col-lg-7">
-              <span className="sub-title">Our team members</span>
+              <span className="sub-title">Nuestro equipo</span>
               <h2>
-                Meet our professional <br /> team members
+                Profesionales  <br /> Interdiciplinarios
               </h2>
             </div>
             <div className="col-lg-5">
               <div className="text">
-                Web designing in a powerful way of just not an only professions,
-                however, in a passion for our Company. We have a tendency to
-                believe looking impression on visitors.
+              Cada uno de Nosotros cuenta con certificaciones de Microsoft, así como con conocimientos adicionales en las áreas de mayor demanda empresarial, lo que nos permite comprender rápidamente sus necesidades y ofrecer soluciones ágiles y eficaces. 
               </div>
             </div>
           </div>
         </div>
 
-        <div className="row">
-          {/* Team Block 1 */}
+        {/* <div className="row">
+          {/* Team Block 1 }
           <div className="team-block col-lg-3 col-sm-6 wow fadeInUp">
             <div className="inner-box">
               <div className="image-box">
@@ -60,7 +58,7 @@ function TeamSection() {
             </div>
           </div>
 
-          {/* Team Block 2 */}
+          {/* Team Block 2 }
           <div
             className="team-block col-lg-3 col-sm-6 wow fadeInUp"
             data-wow-delay="300ms"
@@ -93,7 +91,7 @@ function TeamSection() {
             </div>
           </div>
 
-          {/* Team Block 3 */}
+          {/* Team Block 3 }
           <div
             className="team-block col-lg-3 col-sm-6 wow fadeInUp"
             data-wow-delay="600ms"
@@ -126,7 +124,7 @@ function TeamSection() {
             </div>
           </div>
 
-          {/* Team Block 4 */}
+          {/* Team Block 4 }
           <div
             className="team-block col-lg-3 col-sm-6 wow fadeInUp"
             data-wow-delay="900ms"
@@ -158,7 +156,7 @@ function TeamSection() {
               </div>
             </div>
           </div>
-        </div>
+        </div>*/}
       </div>
     </section>
   );

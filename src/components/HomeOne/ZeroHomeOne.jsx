@@ -58,11 +58,11 @@ function BannerSectionTwo({ className }) {
                             <div className="content-box" style={contentBoxStyle}>
                                 {/* Simulating the ::before pseudo-element */}
                                 <div style={beforeStyle}></div>
-                                <span className="sub-title animate-1" style={subTitleStyle}>Soluciones a tu medida</span>
-                                <h1 className="h1 animate-2" style={{ color: '#fff' }}> Consultoria <br /> <span style={{ color: '#ffaa17' }}>&</span> Servicios </h1>
+                                <span className="sub-title animate-1" style={subTitleStyle}>Innovacion que marca la diferencia</span>
+                                <h1 className="h1 animate-2" style={{ color: '#fff' }}> Soluciones <br /> <span style={{ color: '#ffaa17' }}>&</span> Servicios </h1>
                                 <div className="btn-box animate-3" style={buttonStyle}>
                                     <Link to="/about-us" className="theme-btn btn-style-one">
-                                        <span className="btn-title">Descubre mas</span>
+                                        <span className="btn-title">Comienza Tu Transformación</span>
                                     </Link>
                                 </div>
                             </div>
@@ -76,11 +76,11 @@ function BannerSectionTwo({ className }) {
                             <div className="content-box" style={contentBoxStyle}>
                                 {/* Simulating the ::before pseudo-element */}
                                 <div style={beforeStyle}></div>
-                                <span className="sub-title animate-1" style={subTitleStyle}> Soluciones a tu medida</span>
-                                <h1 className="h1 animate-2" style={{ color: '#fff' }}> Soluciones <br /> <span style={{ color: '#ffaa17' }}>&</span> Servicios </h1>
+                                <span className="sub-title animate-1" style={subTitleStyle}> Descubre algunos de nuestros</span>
+                                <h1 className="h1 animate-2" style={{ color: '#fff' }}> casos de <br /> <span style={{ color: '#ffaa17' }}></span>  Éxito </h1>
                                 <div className="btn-box animate-3" style={buttonStyle}>
                                     <Link to="/about-us" className="theme-btn btn-style-one">
-                                        <span className="btn-title">Descubre mas</span>
+                                        <span className="btn-title">Ver Proyectos</span>
                                     </Link>
                                 </div>
                             </div>

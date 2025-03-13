@@ -47,7 +47,7 @@ function VideoHomeTwo({ className }) {
                 channel="youtube"
                 autoplay
                 isOpen={isOpen}
-                videoId="Fvae8nxzVz4"
+                videoId="RW-ihpgNSYs"
                 onClose={() => setOpen(false)}
             />
         </>

@@ -12,7 +12,7 @@ function CallToActionTwo() {
                         <h3 className="title">Let’s work together just drop us a line</h3>
                     </div>
                     <Link to="/contact" className="theme-btn btn-style-one dark-bg hover-light">
-                        <span className="btn-title">Contact Us</span>
+                        <span className="btn-title">Contacte Nos</span>
                     </Link>
                 </div>
             </div>

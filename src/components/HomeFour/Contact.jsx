@@ -13,7 +13,7 @@ function ContactSectionTwo() {
                     <div className="form-column col-lg-7 col-md-12">
                         <div className="inner-column">
                             <div className="sec-title light">
-                                <span className="sub-title">Contact Us</span>
+                                <span className="sub-title">Contacte Nos</span>
                                 <h2>Let’s work together</h2>
                             </div>
                             {/* Contact Form */}

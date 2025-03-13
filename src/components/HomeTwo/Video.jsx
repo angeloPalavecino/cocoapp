@@ -19,8 +19,8 @@ function VideoSectionTwo() {
                             <i className="icon fa fa-play" aria-hidden="true"></i>
                         </button>
                         <h2>
-                            IT Solutions services built specifically <br />
-                            for your <span className="selected">business</span>
+                        Partner oficial <br />
+                            de <span className="selected">Microsoft</span>
                         </h2>
                     </div>
                 </div>
@@ -31,7 +31,7 @@ function VideoSectionTwo() {
                 channel="youtube"
                 autoplay
                 isOpen={isOpen}
-                videoId="Fvae8nxzVz4"
+                videoId="RW-ihpgNSYs"
                 onClose={() => setOpen(false)}
             />
         </>

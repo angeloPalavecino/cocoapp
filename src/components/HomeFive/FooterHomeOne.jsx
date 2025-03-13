@@ -59,17 +59,16 @@ function FooterHomeOne({ className }) {
                         {/* Footer Column - Contact */}
                         <div className="footer-column col-xl-3 col-sm-6">
                             <div className="footer-widget contact-widget">
-                                <h5 className="widget-title">Contact</h5>
+                                <h5 className="widget-title">Contacto</h5>
                                 <div className="widget-content">
-                                    <div className="text">66 Road Broklyn Street, 600 New York, USA</div>
                                     <ul className="contact-list">
                                         <li className="contact-info">
                                             <i className="icon fa fa-envelope"></i>
-                                            <Link to="mailto:needhelp@company.com">needhelp@company.com</Link>
+                                            <Link to="mailto:contacto@cocoappsolutions.com">needhelp@company.com</Link>
                                         </li>
                                         <li className="contact-info">
                                             <i className="icon fa fa-phone"></i>
-                                            <Link to="tel:+926668880000">+92 666 888 0000</Link>
+                                            <Link to="tel:+56965091286">+56965091286</Link>
                                         </li>
                                     </ul>
                                 </div>
@@ -99,7 +98,7 @@ function FooterHomeOne({ className }) {
             <div className="footer-bottom">
                 <div className="auto-container">
                     <div className="copyright-text">
-                        &copy; Copyright reserved by <Link to="/">kodesolution.com</Link>
+                        &copy; Copyright reserved by <Link to="/">CocoappSolutions.com</Link>
                     </div>
                 </div>
             </div>

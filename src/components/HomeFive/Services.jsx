@@ -38,7 +38,7 @@ function ServicesSectionThree({ className }) {
                                 <h3 className="count">02</h3>
                                 <i className="icon flaticon-graphic-design"></i>
                                 <h4 className="title">
-                                    <Link to="/service-details">Graphic <br />Designing</Link>
+                                    <Link to="/service-details">Licencias <br />Microsoft</Link>
                                 </h4>
                             </div>
                         </div>
@@ -50,7 +50,7 @@ function ServicesSectionThree({ className }) {
                                 <h3 className="count">03</h3>
                                 <i className="icon flaticon-technology"></i>
                                 <h4 className="title">
-                                    <Link to="/service-details">Digital <br />Marketing</Link>
+                                    <Link to="/service-details">Workshops <br /></Link>
                                 </h4>
                             </div>
                         </div>
