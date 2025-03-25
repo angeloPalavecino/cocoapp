@@ -8,6 +8,8 @@ import "swiper/css/pagination";
 
 // Importing images
 import ClientImage1 from '../../assets/images/clients/1.png';
+import ClientImage2 from "../../assets/images/clients/2.png";
+import ClientImage3 from "../../assets/images/clients/3.png";
 
 const swiperOptions = {
     modules: [Autoplay, Pagination, Navigation],
@@ -51,7 +53,7 @@ function ClientHomeOne({ className }) {
                                 <Link to="#"><img src={ClientImage1} alt="Client 1" /></Link>
                             </SwiperSlide>
                             <SwiperSlide className="client-block">
-                                <Link to="#"><img src={ClientImage1} alt="Client 1" /></Link>
+                                <Link to="#"><img src={ClientImage2} alt="Client 2" /></Link>
                             </SwiperSlide>
                             <SwiperSlide className="client-block">
                                 <Link to="#"><img src={ClientImage1} alt="Client 1" /></Link>

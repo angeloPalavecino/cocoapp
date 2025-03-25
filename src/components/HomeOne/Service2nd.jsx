@@ -43,7 +43,7 @@ function ServicesSectionTwo() {
                                 </h4>
                                 <div className="text">Low Code, Desarrollo tradicional  </div>
                                 <div className="icon-box">
-                                    <i className="icon flaticon-bank"></i>
+                                    <i className="flaticon-web-development"></i>
                                 </div>
                             </div>
                         </div>
@@ -85,7 +85,7 @@ function ServicesSectionTwo() {
                                 </h4>
                                 <div className="text">Acompañamiento continuo y dedicado.</div>
                                 <div className="icon-box">
-                                    <i className="icon flaticon-laptop"></i>
+                                <i class="fa-solid fa-person-chalkboard"></i>
                                 </div>
                             </div>
                         </div>
@@ -112,7 +112,7 @@ function ServicesSectionTwo() {
                                 </h4>
                                 <div className="text">Low Code, Desarrollo tradicional  </div>
                                 <div className="icon-box">
-                                    <i className="icon flaticon-bank"></i>
+                                <i class="fa-solid fa-laptop-code"></i>
                                 </div>
                             </div>
                         </div>
@@ -126,7 +126,7 @@ function ServicesSectionTwo() {
                                 </h4>
                                 <div className="text">Branding y diseños de experiencia de Usuario </div>
                                 <div className="icon-box">
-                                    <i className="icon flaticon-technology"></i>
+                                <i class="fa-solid fa-rectangle-ad"></i>
                                 </div>
                             </div>
                         </div>

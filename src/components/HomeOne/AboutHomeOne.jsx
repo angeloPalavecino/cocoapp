@@ -2,11 +2,9 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import aboutImage1 from '../../assets/images/resource/about-1.jpg';
 import aboutImage2 from '../../assets/images/resource/about-2.jpg';
-import aboutThumb from '../../assets/images/resource/about1-thumb.jpg';
+import aboutThumb from '../../assets/images/resource/about1-thumb1.jpg';
 import aboutThumb2 from '../../assets/images/resource/about1-thumb2.jpg';
 import iconCircleText from '../../assets/images/icons/icon-circle-text.png';
-import ProgressBar2 from '../../lib/ProgressBar2';
-
 function AboutHomeOne({ className }) {
     const percentage = 78;
     return (
@@ -47,30 +45,27 @@ function AboutHomeOne({ className }) {
                                 {/* Skills */}
                                 <div className="bottom-box">
                                     <div className="author-box">
-                                        <img src={aboutThumb} alt="Image" width="100" height="100"/>
+                                        <img src={aboutThumb} alt="Image" width="200" height="300"/>
                                         <div className="info">
-                                            <h4 className="name">PowerPlatform</h4>
-                                            <div className="designation" style={{ textAlign: "justify" }}>USD 15,4 millones adicionales en ingresos gracias a la rápida implementación de soluciones personalizadas que satisfacen las necesidades específicas de los clientes</div>
+                                            <h4 className="name">Reducción de Errores</h4>
+                                            <div className="designation" style={{ textAlign: "justify" }}>Tras la digitalización de procesos, se observa una disminución del 30% en la ocurrencia de errores operativos, lo que mejora la calidad de los productos o servicios entregados.​</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="team-details__bottom-right ms-0 mb-30">
-                                    <div className="team-details__progress home-style">
-                                        <ProgressBar2 title="Ahorro de Tiempo " targetPercentage={35} />
-                                    </div>
+                              
                                 </div>
                                 <div className="bottom-box">
                                 <div className="author-box">
-                                <img src={aboutThumb2} alt="Image" width="100" height="100"/>
+                                <img src={aboutThumb2} alt="Image" width="200" height="300"/>
                                         <div className="info">
-                                            <div className="designation" style={{ textAlign: "justify" }}>El porcentaje promedio de ganancias anuales directamente atribuible a Power Platform es aproximadamente 75% (basado en el ROI anualizado), respaldado por mejoras en eficiencia, reducción de costos operativos y crecimiento de ingresos.</div>
+                                        <h4 className="name">Aumento de Productividad</h4>
+                                            <div className="designation" style={{ textAlign: "justify" }}>La digitalización ha permitido aumentar en un 40% la productividad de los equipos, al simplificar tareas rutinarias y optimizar la asignación de recursos.​</div>
                                         </div>
                                         </div>
                                 </div>
                                 <div className="team-details__bottom-right ms-0 mb-30">
-                                    <div className="team-details__progress home-style">
-                                        <ProgressBar2 title="promedio de ganancias anuales " targetPercentage={75} />
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>

@@ -52,7 +52,7 @@ function ServicesDetails() {
             images: [ServiceImage1, ServiceImage2]
         },
         'sharepoint': {
-            title: "Gestión Documental con SharePoint",
+            title: "Gestión Doc. SharePoint",
             overview: "Implementación de portales corporativos y sistemas de gestión documental avanzados. Colaboración eficiente, workflows personalizados y seguridad de información crítica.",
             features: [
                 "Portales intranet personalizados",
@@ -161,7 +161,8 @@ function ServicesDetails() {
                                             >
                                                 <span className="btn-title">
                                                     <span className="fas fa-file-pdf"></span> 
-                                                    Descargar Catálogo
+                                                    <a href="ruta-del-archivo" download>Descargar Catálogo</a>
+
                                                 </span>
                                             </Link>
                                         </div>

@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import aboutThumb from '../../assets/images/resource/about1-thumb.jpg';
 import aboutImage1 from '../../assets/images/resource/about-1.jpg';
 import aboutImage2 from '../../assets/images/resource/about-2.jpg';
 import circleTextIcon from '../../assets/images/icons/icon-circle-text.png';

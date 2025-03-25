@@ -38,7 +38,7 @@ function Feature({ className }) {
                                 {/* Feature Block */}
                                 <div className="feature-block col-lg-6 col-md-4 col-sm-6">
                                     <div className="inner-box">
-                                        <i className="icon fab fa-android"></i>
+                                        <i class="fa-brands fa-microsoft"></i>
                                         <h5 className="title">Power Platform</h5>
                                     </div>
                                 </div>

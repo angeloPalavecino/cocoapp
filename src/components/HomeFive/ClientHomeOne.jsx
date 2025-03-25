@@ -8,8 +8,8 @@ import "swiper/css/pagination";
 
 // Import images
 import client1 from "../../assets/images/clients/1.png";
-import client2 from "../../assets/images/clients/1.png";
-import client3 from "../../assets/images/clients/1.png";
+import client2 from "../../assets/images/clients/2.png";
+import client3 from "../../assets/images/clients/3.png";
 import client4 from "../../assets/images/clients/1.png";
 import client5 from "../../assets/images/clients/1.png";
 

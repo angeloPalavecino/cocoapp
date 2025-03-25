@@ -66,7 +66,7 @@ function Header({ className = '', scroll = false }) {
                     <div className="logo-box">
                         <div className="logo">
                             <Link to="/">
-                                <img  style={{ marginTop: '20px' }}  src={isDarkMode ? MainLogoWhite : MainLogoBlack} height="130" width="130" alt="CocoApp" title="CocoApp" />
+                                <img  style={{ marginTop: '20px' }}  src={isDarkMode ? MainLogoWhite : MainLogoBlack} height="180" width="180" alt="CocoApp" title="CocoApp" />
                             </Link>
                         </div>
                     </div>

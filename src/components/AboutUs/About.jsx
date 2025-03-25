@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import aboutImage1 from '../../assets/images/resource/about-1.jpg';
 import aboutImage2 from '../../assets/images/resource/about-2.jpg';
-import aboutThumb from '../../assets/images/resource/about1-thumb.jpg';
 import iconCircleText from '../../assets/images/icons/icon-circle-text.png';
 
 function AboutHomeOne({ className }) {
