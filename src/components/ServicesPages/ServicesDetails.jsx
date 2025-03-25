@@ -7,11 +7,12 @@ import HeroPageTitle from '../HeroPageTitle.jsx';
 import ServiceDetailsImage from '../../assets/images/resource/service-details.jpg';
 import ServiceImage1 from '../../assets/images/resource/service-d1.jpg';
 import ServiceImage2 from '../../assets/images/resource/service-d2.jpg';
+import DownloadDocument from '../../assets/documentos/Cocoapp_Solutions_MP.pdf'
 
 function ServicesDetails() {
     const [showQues, setQues] = useState(1);
     const [selectedService, setSelectedService] = useState('copilot-ia');
-    
+
     const servicesConfig = {
         'copilot-ia': {
             title: "Implementación de Copilot IA",
@@ -114,12 +115,12 @@ function ServicesDetails() {
                                     <div className="sidebar-service-list">
                                         <ul>
                                             {Object.keys(servicesConfig).map((serviceId) => (
-                                                <li 
-                                                    key={serviceId} 
+                                                <li
+                                                    key={serviceId}
                                                     className={selectedService === serviceId ? 'current' : ''}
                                                 >
-                                                    <Link 
-                                                        to="#" 
+                                                    <Link
+                                                        to="#"
                                                         className="service-link"
                                                         onClick={(e) => {
                                                             e.preventDefault();
@@ -151,33 +152,25 @@ function ServicesDetails() {
                                             </Link>
                                         </div>
                                     </div>
-
-                                    <div className="sidebar-widget service-sidebar-single mt-4">
-                                        <div className="service-sidebar-single-btn wow fadeInUp">
-                                            <Link 
-                                                to="#" 
-                                                className="theme-btn btn-style-one d-grid"
-                                                onClick={(e) => e.preventDefault()}
-                                            >
-                                                <span className="btn-title">
-                                                    <span className="fas fa-file-pdf"></span> 
-                                                    <a href="ruta-del-archivo" download>Descargar Catálogo</a>
-
+                                    <a href={DownloadDocument} download style={{ textDecoration: 'none', color: 'inherit' }}>
+                                        <div className="sidebar-widget service-sidebar-single mt-4">
+                                            <div className="service-sidebar-single-btn wow fadeInUp">
+                                                <span className="btn-title theme-btn btn-style-one d-grid">
+                                                    <span className="fas fa-file-pdf"> Descargar Catálogo</span>
                                                 </span>
-                                            </Link>
+                                            </div>
                                         </div>
-                                    </div>
+                                    </a>
                                 </div>
                             </div>
                         </div>
-
                         {/* Contenido Principal Corregido */}
                         <div className="col-xl-8 col-lg-8">
                             <div className="services-details__content">
                                 <img src={currentService.serviceDetailsImage} alt="Service Details" />
                                 <h3 className="mt-4">{currentService.title}</h3>
                                 <p>{currentService.overview}</p>
-                                
+
                                 <div className="content mt-40">
                                     <div className="text">
                                         <h3>Características Clave</h3>
@@ -194,18 +187,18 @@ function ServicesDetails() {
                                     <div className="feature-list mt-4">
                                         <div className="row clearfix">
                                             <div className="col-lg-6 col-md-6 col-sm-12 column">
-                                                <img 
-                                                    className="mb-3" 
-                                                    src={currentService.images[0]} 
-                                                    alt="Implementación" 
+                                                <img
+                                                    className="mb-3"
+                                                    src={currentService.images[0]}
+                                                    alt="Implementación"
                                                 />
                                                 <p>Soluciones personalizadas adaptadas a tus necesidades específicas y presupuesto.</p>
                                             </div>
                                             <div className="col-lg-6 col-md-6 col-sm-12 column">
-                                                <img 
-                                                    className="mb-3" 
-                                                    src={currentService.images[1]} 
-                                                    alt="Soporte técnico" 
+                                                <img
+                                                    className="mb-3"
+                                                    src={currentService.images[1]}
+                                                    alt="Soporte técnico"
                                                 />
                                                 <p>Soporte especializado durante y después de la implementación.</p>
                                             </div>
@@ -218,9 +211,9 @@ function ServicesDetails() {
                                     <h3>Preguntas Frecuentes</h3>
                                     <ul className="accordion-box wow fadeInRight">
                                         {currentService.faqs.map((faq, index) => (
-                                            <li 
-                                                key={index} 
-                                                className={`accordion block ${showQues === index + 1 ? 'active-block' : ''}`} 
+                                            <li
+                                                key={index}
+                                                className={`accordion block ${showQues === index + 1 ? 'active-block' : ''}`}
                                                 onClick={() => setQues(index + 1)}
                                             >
                                                 <div className={`acc-btn ${showQues === index + 1 ? 'active' : ''}`}>

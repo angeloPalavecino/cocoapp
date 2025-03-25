@@ -39,11 +39,11 @@ function ServicesSectionTwo() {
                         <div className="inner-box">
                             <div className="content-box">
                                 <h4 className="title">
-                                    <Link to="/service-details">Desarrollo <br /> de Productos</Link>
+                                    <Link to="/service-details">Desarrollo <br/> de Productos</Link>
                                 </h4>
                                 <div className="text">Low Code, Desarrollo tradicional  </div>
                                 <div className="icon-box">
-                                    <i className="flaticon-web-development"></i>
+                                    <i className="icon flaticon-web-development"></i>
                                 </div>
                             </div>
                         </div>
@@ -53,11 +53,11 @@ function ServicesSectionTwo() {
                         <div className="inner-box">
                             <div className="content-box">
                                 <h4 className="title">
-                                    <Link to="/service-details">Marketing  <br /> digital</Link>
+                                    <Link to="/service-details">Marketing<br/> digital</Link>
                                 </h4>
                                 <div className="text">Branding y diseños de experiencia de Usuario </div>
                                 <div className="icon-box">
-                                    <i className="icon flaticon-technology"></i>
+                                    <i className="icon fa-solid fa-rectangle-ad"></i>
                                 </div>
                             </div>
                         </div>
@@ -85,7 +85,7 @@ function ServicesSectionTwo() {
                                 </h4>
                                 <div className="text">Acompañamiento continuo y dedicado.</div>
                                 <div className="icon-box">
-                                <i class="fa-solid fa-person-chalkboard"></i>
+                                <i class="icon fa-light fa-chalkboard-user"></i>
                                 </div>
                             </div>
                         </div>
@@ -112,7 +112,7 @@ function ServicesSectionTwo() {
                                 </h4>
                                 <div className="text">Low Code, Desarrollo tradicional  </div>
                                 <div className="icon-box">
-                                <i class="fa-solid fa-laptop-code"></i>
+                                <i class="icon flaticon-web-development"></i>
                                 </div>
                             </div>
                         </div>
@@ -126,7 +126,7 @@ function ServicesSectionTwo() {
                                 </h4>
                                 <div className="text">Branding y diseños de experiencia de Usuario </div>
                                 <div className="icon-box">
-                                <i class="fa-solid fa-rectangle-ad"></i>
+                                <i class="icon fa-solid fa-rectangle-ad"></i>
                                 </div>
                             </div>
                         </div>
@@ -154,7 +154,7 @@ function ServicesSectionTwo() {
                                 </h4>
                                 <div className="text">Acompañamiento continuo y dedicado.</div>
                                 <div className="icon-box">
-                                    <i className="icon flaticon-laptop"></i>
+                                <i class="icon fa-light fa-chalkboard-user"></i>
                                 </div>
                             </div>
                         </div>
