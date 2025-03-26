@@ -27,7 +27,7 @@ function AwardSection({ className }) {
                                 <ul className="list-style-three light">
                                     <li><i className="icon fa fa-check"></i>Partner Oficial en Microsoft Market place</li>
                                     <li><i className="icon fa fa-check"></i>5 Nuevas Certificaciones en menos del primer trimestre 2025</li>
-                                    <li><i className="icon fa fa-check"></i>Certificados frente a la camara de comercio de santiago.</li>
+                                    <li><i className="icon fa fa-check"></i>Authorized Microsoft Reseller.</li>
                                 </ul>
                             </div>
                         </div>
