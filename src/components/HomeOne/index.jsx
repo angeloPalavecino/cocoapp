@@ -34,7 +34,7 @@ function HomeOne() {
             <ServiceHomeOne />
             <MarqueeSection />
             <ServicesSectionTwo />
-            <ClientHomeOne />
+            
             <Feature />
             <ProcessSection />
             <FooterHomeOne />

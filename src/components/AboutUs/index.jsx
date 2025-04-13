@@ -28,7 +28,6 @@ function AboutUs() {
             <AwardSection />
             <TeamSection />
 
-            <ClientHomeOne />
             <FooterHomeOne />
             <BackToTop />
         </>

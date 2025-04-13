@@ -37,7 +37,7 @@ function HomeFive() {
             <ProjectSliderHomeThree />
             <MarqueeSection />
             <TeamSection />
-            <ClientHomeOne />
+           
             <TestimonialSection />
             <BlogHomeThree />
             <CallToAction />
